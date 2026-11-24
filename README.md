@@ -1,4 +1,3 @@
-
 # Student Portfolio
 
 ## Student Information
