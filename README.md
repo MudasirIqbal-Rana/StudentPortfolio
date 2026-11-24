@@ -4,7 +4,7 @@
 ## Student Information
 
 - Name: Mudasir Iqbal
-- Registration Number: YOUR_REGISTRATION_NUMBER
+- Registration Number: 24-SE-19
 - Department: Software Engineering
 
 ## About Me
